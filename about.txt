@@ -1,2 +1,0 @@
-This is a practice repo
-I am learning Git and GitHub, PR and conflict Resolution
